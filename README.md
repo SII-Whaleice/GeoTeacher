@@ -24,6 +24,7 @@ Extensive experiments on ONCE and Waymo datasets indicate the effectiveness and 
 
 If you find our work useful, please cite:
 
+```bibtex
 @article{li2025geoteacher,
   title={GeoTeacher: Geometry-Guided Semi-Supervised 3D Object Detection},
   author={Li, Jingyu and Zhao, Xiaolong and Liu, Zhe and Wu, Wenxiao and Zhang, Li},
